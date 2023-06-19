@@ -1,0 +1,9 @@
+.env
+.venv/
+logs/
+configs/
+plugins/
+surf_dash.py
+raw_data/tides.csv
+raw_data/waves.csv
+raw_data/surf-report.csv
